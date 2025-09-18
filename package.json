@@ -2,8 +2,11 @@
   "name": "bookers",
   "private": true,
   "dependencies": {
+<<<<<<< HEAD
     "@babel/plugin-proposal-private-methods": "^7.18.6",
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+=======
+>>>>>>> b90aa4790eab76a91b6d8b59a61f30840b046ee3
     "@rails/actioncable": "^6.0.0",
     "@rails/activestorage": "^6.0.0",
     "@rails/ujs": "^6.0.0",
